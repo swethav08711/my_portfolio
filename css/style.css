@@ -60,7 +60,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #333;
   text-align: left;
   background-color: #fff; }
 
@@ -7571,7 +7571,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .7;
+    opacity: .85;
     background: #fff;
     z-index: 0; }
   .hero-wrap.hero-wrap-2 .overlay {
@@ -7590,7 +7590,7 @@ h1, h2, h3, h4, h5,
       border-radius: 50%; }
     .hero-wrap .text .subheading {
       font-size: 24px;
-      color: #bfbfbf;
+      color: white;
       font-weight: 300; }
     .hero-wrap .text h1 {
       letter-spacing: 1px;
